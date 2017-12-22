@@ -1,0 +1,33 @@
+;Put extra locations in "/core/locations-extra.txt"
+;This is mainly for locations that everyone will get and be updated.
+;Some orders of these locations matter! Do not mix it up unless you know what you are doing.
+
+battleauto:13,117,0xD6CBAD
+battle-auto:132,117,0xDECB9C
+sellmenu:574,163,0xFFFFDE
+readyforbattle:760,116,0x84715A
+map:743,495,0xFFFFFF
+inventorygear:124,116,0x7B8684
+heroes:503,124,0x9CA2A5
+loot:376,177,0xFFEBBD
+battleendmenu:756,489,0x005D5A
+victory:13,118,0x737163
+usepots:376,358,0x00B2FF
+gear-full:364,269,0x735D42
+gearfull:261,273,0x524129
+dialogueinbtle:704,482,0xF7EBE7
+repeatbox:372,331,0xFF9A21
+repeatend:243,273,0x523C21
+repeatnotice:245,211,0x634931
+monsterinfo:353,175,0xFFFFFF
+error:399,167,0xFFFFE7
+pvpmainmenu:401,142,0x944531
+pvpselectmenu:116,326,0xCEC394
+pvpreadyduel:520,310,0xA51808
+pvprankup:161,373,0x08596B
+worldmap:64,28,0xDECF84
+recieveinbox:739,100,0x101008
+itemclick:561,228,0x5A2C00
+dragonbid:563,406,0xEFDFBD
+dragonready:547,519,0xF79A10
+loginrewards:460,113,0xFFBABD
