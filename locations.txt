@@ -1,6 +1,3 @@
-;Put extra locations in "/core/locations-extra.txt"
-;This is mainly for locations that everyone will get and be updated.
-;Some orders of these locations matter! Do not mix it up unless you know what you are doing.
 
 battleauto:13,117,0xD6CBAD
 battle-auto:132,117,0xDECB9C
